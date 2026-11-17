@@ -1,0 +1,315 @@
+# 原文	简体中文
+< Back	< 上一步
+<Enter the DB file location>	<输入数据库文件路径>
+<describe the connection>	<输入连接说明>
+<enter a database name>	<输入数据库名称>
+<enter a unique caption>	<输入唯一的连接名称>
+<enter password>	<输入密码>
+<enter user name>	<输入用户名>
+<no administration pages>	<暂无管理页面>
+<no connections>	<暂无连接>
+<no documents>	<暂无文档>
+<no matching schemas>	<没有匹配的架构>
+<no profiles found>	<未找到配置>
+About MySQL Workbench	关于 MySQL Workbench
+Actual Size	实际大小
+Add	添加
+Add MySQL Database Schema	新建数据库架构
+Add New Row	新增行
+Add Result	添加结果
+Add Subfolder	新建子文件夹
+Add a database connection	添加数据库连接
+Advanced	高级
+All	全部
+All Supported Formats	所有支持的格式
+An unexpected error occurred:	发生意外错误：
+Apply	应用
+Apply Changes	应用更改
+Authentication	身份验证
+Authentication Details	身份验证详情
+Authentication Plugin	身份验证插件
+Authenticating ...	正在验证身份…
+Auto-Refresh	自动刷新
+Auto-commit	自动提交
+Back	返回
+CA Certificate Path	CA 证书路径
+CONNECTIONS	连接
+Cancel	取消
+Cancel Tasks	取消任务
+Caption	名称
+Clear All Notifications	清除所有通知
+Client Certificate Path	客户端证书路径
+Client Connections	客户端连接
+Client Key Path	客户端密钥路径
+Close	关闭
+Close All	关闭全部
+Close Connection	关闭连接
+Close Document	关闭文档
+Close Editor	关闭编辑器
+Close Others	关闭其他标签页
+Close Result Set	关闭结果集
+Close Tab	关闭标签页
+Close Workspace	关闭工作区
+Close to the Right	关闭右侧标签页
+Collapse All	全部折叠
+Columns	列
+Comment	注释
+Comments	注释
+Communication Debugger	通信调试器
+Configuration Import	导入配置
+Confirm	确认
+Confirm Password:	确认密码：
+Confirmation	确认
+Connect with New Notebook	连接并打开新笔记本
+Connect with New SQL Script	连接并打开新 SQL 脚本
+Connected	已连接
+Connection Attributes	连接属性
+Connection Group	连接组
+Connection ID	连接 ID
+Connection Method	连接方式
+Connection Tags	连接标签
+Connection Timeout	连接超时
+Connections	连接
+Copy All Rows	复制所有行
+Copy Field	复制字段值
+Copy Selected Rows	复制选中行
+Copy to Clipboard	复制到剪贴板
+Create	创建
+Create DB Connection	新建数据库连接
+Create New DB Connection	新建数据库连接
+Create New Notebook	新建笔记本
+Create Stored Function...	新建存储函数…
+Create Stored Procedure...	新建存储过程…
+Create User Account	新建用户账号
+Current Password:	当前密码：
+Current Statement	当前语句
+Current Task List	当前任务列表
+DATABASE CONNECTIONS	数据库连接
+DB Connection Overview	数据库连接概览
+Data Grid	数据网格
+Database	数据库
+Database Connections	数据库连接
+Database Name	数据库名称
+Database Path	数据库路径
+Database Schema Name	数据库架构名称
+Database Schemas	数据库架构
+Default	默认
+Default Editor	默认编辑器
+Default Schema	默认架构
+Delete Connection…	删除连接…
+Delete Folder…	删除文件夹…
+Delete Row (Mark/Unmark)	标记或取消标记删除行
+Description	说明
+Details	详情
+Developer	开发者
+Discard Changes	放弃更改
+Discard Old Password	废弃旧密码
+Discard Old Password...	废弃旧密码…
+Do you really want to discard all changes?	确定放弃所有更改吗？
+Drop Schema...	删除数据库架构…
+Drop Table...	删除表…
+Duplicate Connection…	复制连接…
+Edit	编辑
+Edit Connection…	编辑连接…
+Edit Folder	编辑文件夹
+Edit User Account	编辑用户账号
+Edit tags	编辑标签
+Enabled	已启用
+Enter New Password:	输入新密码：
+Enterprise Backup	企业备份
+Error	错误
+Error Code	错误代码
+Error Log	错误日志
+Errors	错误
+Events	事件
+Execute	执行
+Execute Block	执行代码块
+Execute Block and Advance	执行代码块并移至下一块
+Execute Current Statement	执行当前语句
+Execute Script	执行脚本
+Execute Script and Move Cursor	执行脚本并移动光标
+Execute Statement	执行语句
+Execute the statement at the caret position	执行光标所在的语句
+Execute with Results as Text	执行并以文本显示结果
+Explain	查看执行计划
+Explain Analyze	分析实际执行计划
+Explain Analyze Statement	分析语句的实际执行计划
+Explain Statement	查看语句的执行计划
+Export Connections...	导出连接…
+Export Error Logs	导出错误日志
+Export Result Set	导出结果集
+File	文件
+Filter	筛选
+Filter...	筛选…
+Find	查找
+Finish	完成
+Foreign Keys	外键
+Format Code	格式化代码
+Functions	函数
+General	常规
+Generated Password	生成的密码
+Groups	分组
+Help	帮助
+History	历史记录
+Home	主页
+Host	主机
+Host Name or IP Address	主机名或 IP 地址
+Import	导入
+Import Connections...	导入连接…
+Import MySQL Workbench Connections	导入 MySQL Workbench 连接
+Import Result Set	导入结果集
+Indexes	索引
+Information	信息
+Input Password	输入密码
+Kill Connection	终止连接
+Language	语言
+Language:	语言：
+Lakehouse Navigator	Lakehouse 导航
+Limit	限制
+Load MySQL Notebook	载入 MySQL 笔记本
+Load SQL Script from Disk	从磁盘打开 SQL 脚本
+Load SQL Script from Disk...	从磁盘打开 SQL 脚本…
+Load Script From File	从文件载入脚本
+Loading...	正在加载…
+Loading table information...	正在读取表信息…
+MySQL Administration	MySQL 管理
+MySQL Client Connections	MySQL 客户端连接
+MySQL Password	MySQL 密码
+MySQL Shell Consoles	MySQL Shell 控制台
+MySQL User Name	MySQL 用户名
+Name	名称
+Name:	名称：
+New Connection	新建连接
+New JS Notebook	新建 JS 笔记本
+New MySQL Script	新建 MySQL 脚本
+New SQL Notebook	新建 SQL 笔记本
+New SQL Script	新建 SQL 脚本
+New Script	新建脚本
+New TS Notebook	新建 TS 笔记本
+Next	下一步
+Next >	下一步 >
+Next Command	下一条命令
+No Recent Files	暂无最近文件
+No object selected	尚未选择对象
+No Title	无标题
+ORACLE CLOUD INFRASTRUCTURE	Oracle 云基础设施
+Open MySQL Connection	打开 MySQL 连接
+Open New Connection using Notebook	打开新连接并使用笔记本
+Open New Connection using SQL Script	打开新连接并使用 SQL 脚本
+Open Notebook...	打开笔记本…
+Open Recent	打开最近文件
+Open Script...	打开脚本…
+Open Value in Editor	在编辑器中打开值
+Open in SQL Editor	在 SQL 编辑器中打开
+Open mysqlsh.log File	打开 mysqlsh.log
+Open...	打开…
+Options	选项
+Other Connection Options	其他连接选项
+Output	输出
+Overview	概览
+Password	密码
+Password:	密码：
+Password Confirmation	确认密码
+Password invalid.	密码无效。
+Path	路径
+Performance Reports	性能报告
+Please enter the name of the new MySQL Database Schema:	请输入新 MySQL 数据库架构的名称：
+Port	端口
+Preferences	偏好设置
+Preferences...	偏好设置…
+Previous Command	上一条命令
+Procedures	存储过程
+Random Password	随机密码
+Refresh	刷新
+Refresh Connection	刷新连接
+Refresh Schemas	刷新架构
+Refresh the Connection List	刷新连接列表
+Reformat	重新格式化
+Remove All Results	清除所有结果
+Reset Password	重置密码
+Reset Password and Retain Current	重置密码并保留旧密码
+Reset Password and Retain Current...	重置密码并保留旧密码…
+Reset Password...	重置密码…
+Reset Remembered UI State...	重置已保存的界面状态…
+Result Format	结果格式
+Results	结果
+Retry	重试
+Run	运行
+Run (Results as Text)	运行并以文本显示结果
+Run Current Statement	运行当前语句
+Run Script	运行脚本
+Running	运行中
+SQL Mode	SQL 模式
+SQL Preview	SQL 预览
+SQL Script	SQL 脚本
+SSH Private Key File	SSH 私钥文件
+SSH Public Key File	SSH 公钥文件
+SSH Tunnel	SSH 隧道
+Save	保存
+Save As	另存为
+Save As...	另存为…
+Save MySQL Notebook	保存 MySQL 笔记本
+Save Script File	保存脚本文件
+Save To File	保存到文件
+Schema	架构
+Schema Name	架构名称
+Schemas	架构
+Search DB objects	搜索数据库对象
+Search settings	搜索设置
+Select All	全选
+Server Status	服务器状态
+Set As Current Database Schema	设为当前数据库架构
+Settings	设置
+Show Action Menu	显示操作菜单
+Show Advanced Settings	显示高级设置
+Show Connection	显示连接
+Show Connection Info	显示连接信息
+Show Hidden Characters	显示隐藏字符
+Show MySQL System Schemas	显示 MySQL 系统架构
+Show Notifications	显示通知
+Show System Schemas	显示系统架构
+Socket Path	套接字路径
+Soft Wrap Lines	自动换行
+Start MySQL HeatWave Cloud Migration Assistant	启动 MySQL HeatWave 云迁移助手
+Statement	语句
+Status	状态
+Stop	停止
+Stop on Error	出错时停止
+Storage	存储
+Summary	摘要
+TLS Mode	TLS 模式
+Table	表
+Table Description	表说明
+Table Name:	表名称：
+Tables	表
+Test Connection	测试连接
+Text	文本
+The session is not connected to a MySQL server	此会话尚未连接 MySQL 服务器
+Toggle Communication Debugger	切换通信调试器
+Toggle SQL Preview	切换 SQL 预览
+Toggle Sidebar	切换侧边栏
+Triggers	触发器
+Type	类型
+User Accounts	用户账号
+User Name	用户名
+User Name:	用户名：
+Username	用户名
+Value	值
+View	视图
+Views	视图
+Visual Explain	可视化执行计划
+Visual Explain Analyze	可视化实际执行计划
+Visual Explain Analyze Statement	可视化语句的实际执行计划
+Visual Explain Statement	可视化语句的执行计划
+Welcome to MySQL Workbench	欢迎使用 MySQL Workbench
+Window	窗口
+Zoom In	放大
+Zoom Out	缩小
+no schemas available	暂无可用架构
+not connected	未连接
+Add new console	新建控制台
+Choose the global default or override it for this connection	可使用全局默认值，也可为此连接单独设置
+Connection Error: 	连接错误：
+Connection test succeeded.	连接测试成功。
+Session created, opening new connection...	会话已创建，正在打开新连接…
+Short label for this database connection	在连接列表中显示的名称
